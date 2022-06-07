@@ -1,8 +1,10 @@
+import Header from "./components/scss-header/Header";
+
 function App() {
   return (
-    <div>
-      <h1>React-SASS-Header-Navbar </h1>
-    </div>
+    <>
+      <Header />
+    </>
   );
 }
 
